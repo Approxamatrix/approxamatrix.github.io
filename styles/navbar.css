@@ -1,0 +1,154 @@
+
+.navbar{
+ float:left;
+ display:flex;
+ flex-direction:row;
+ align-items: center;
+ padding:0;
+ /* background-color: rgb(5,14, 62,0.85); */
+ border-radius:5px;
+ color:white;
+ overflow:hidden;
+ 
+ 
+ margin-bottom:0.5vw;
+ margin-top:1.5vw;
+ margin: auto;
+ padding-top:0.5vw;
+ padding-bottom:0.5vw;
+ padding-left:1vw;
+ 
+ 
+
+ 
+ 
+}
+
+
+.navbar > li{
+  
+  display:flex;
+  text-decoration: none;
+  flex-direction:row;
+  
+}
+
+
+.navbar > ul{
+  
+  padding-left:0;
+  background-color: rgb(5,14, 62,0.85);
+  padding:0.5vw;
+  border-radius:5px;
+
+}
+
+
+.navbar > ul > li{
+  
+  display:inline-block;
+  font-size:1.5em;
+  
+  
+  padding-left:2vw;
+  padding-right: 2vw;
+  padding-top: 0vw;
+  padding-bottom : 0vw;
+  border-radius : 5px
+  
+  
+  
+  
+  
+
+
+  
+}
+
+.navbar img{
+  
+ width: 64px;
+ height: 64px;
+  
+}
+
+
+
+
+.navbar #Homebutton{
+  
+ background: linear-gradient(#93001E, #47131D, #86041E); 
+  
+}
+
+.navbar #Homebutton:hover{
+  
+  
+ background: linear-gradient(#5D0214,#350D15,#610215); 
+
+
+}
+
+
+.navbar #Gamesbutton{
+  
+  
+ background: linear-gradient(#1A8338,#073916,#0F4E22); 
+  
+}
+
+
+.navbar #Gamesbutton:hover{
+  
+  
+ background: linear-gradient(#12632A,#062F12,#0D411C); 
+
+
+}
+
+
+
+.navbar #Artbutton{
+  
+  background: linear-gradient(#ABA200,#545000,#908803); 
+
+  
+}
+
+
+.navbar #Artbutton:hover{
+  
+  background: linear-gradient(#878001,#413D01,#696401); 
+
+  
+}
+
+.navbar #Blogbutton{
+  
+  background: linear-gradient(#5D93A1,#2E4950,#48747F); 
+
+  
+}
+
+
+.navbar #Blogbutton:hover{
+  
+  background: linear-gradient(#426974,#22363B,#3C626B); 
+
+  
+}
+
+.navbar #Projectsbutton{
+  
+  background: linear-gradient(#BB5E1E,#6E3711,#AC571D); 
+
+  
+}
+
+
+.navbar #Projectsbutton:hover{
+  
+  background: linear-gradient(#984D19,#5A2E0F,#954C1A); 
+
+  
+}
