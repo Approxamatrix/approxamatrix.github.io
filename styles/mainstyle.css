@@ -18,10 +18,15 @@ a{
   
 }
 
+@font-face {
+  font-family: "Ubuntu";
+  src:url("../fonts/Ubuntu/Ubuntu-Regular.ttf") format("truetype");
+}
 
 .ubuntufont{
   
-  font-family: "Open Sans";
+  font-family: "Ubuntu",sans-serif;
+ 
   
   
   
@@ -52,7 +57,7 @@ a{
 .logo{
   
   margin-left: 100vw;
-  background-color: ;
+ /* background-color: ; */
   
   
 }
