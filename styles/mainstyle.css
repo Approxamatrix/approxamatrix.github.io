@@ -293,9 +293,11 @@ a{
   grid-area : aboutme;
   }
 
+
 #88x31s{
   
   grid-area: 88x31s;
+  image-rendering: pixelated;
   
 }
 
