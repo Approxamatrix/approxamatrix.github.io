@@ -278,7 +278,7 @@ a{
   
 }
 
-.pixelart > img{
+.pixelart{
 
   image-rendering: pixelated;
 }
