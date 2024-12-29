@@ -278,7 +278,10 @@ a{
   
 }
 
+.pixelart{
 
+  image-rendering: pixelated;
+}
 
 #updates{
   
@@ -297,7 +300,7 @@ a{
 #88x31s{
   
   grid-area: 88x31s;
-  image-rendering: pixelated;
+  
   
 }
 
